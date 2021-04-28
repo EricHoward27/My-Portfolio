@@ -1,12 +1,12 @@
 const greeting = {
-    title: "Hi, I'm Your Name",
+    title: "Hi, I'm Eric Howard",
     logo_name: "Name",
     logo_img_show: false, // if true than show image(logo) in home page instant of text(logo)
     logo_img: "https://logo.letskhabar.com/name?name=name",
-    full_name: "your name",
-    email: "email id",
+    full_name: "Eric Howard",
+    email: "howarddesignstudio27@gmail.com",
     subTitle:
-    "I'm a student pursuing {Course} in {department} from {university}. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage. Apart from that I also love to guide and mentor newbies. I'm currently into Web Development and working on my MERN Website",
+    "I'm a motivated, quick learning, and resourceful full-stack web developer with real-world experience working effectively in teams and engaging with clients. I'm excited to pursue a position as a junior software engineer or web developer and contribute technical value to a mission-focused company.",
     Programming: true,  // if true, Show 'Programming' section in home page, if false than not show
     developer: true,  // if true, Show 'Full Stack Development' section in home page, if false than not show
     designer: true,  // if true, Show 'designer' section in home page, if false than not show
@@ -33,21 +33,6 @@ const BlogData = {
 const socialMedia = [
     // https://logo.letskhabar.com/ all logo list
     // you can use by changing tool name
-    {
-        icon: "facebook",
-        img: "https://logo.letskhabar.com/img?tool=facebook0",
-        link: "Your facebook link"
-    },
-    {
-        icon: "twitter",
-        img: "https://logo.letskhabar.com/img?tool=twitter",
-        link: "Your twitter link"
-    },
-    {
-        icon: "instagram",
-        img: "https://logo.letskhabar.com/img?tool=instagram",
-        link: "Your instagram link"
-    },
     {
         icon: "github",
         img: "https://logo.letskhabar.com/img?tool=github",

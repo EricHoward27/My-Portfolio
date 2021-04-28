@@ -1,8 +1,8 @@
 {
-  "name": "master-portfolio",
+  "name": "my-portfolio",
   "version": "0.1.1",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://EricHoward27.github.io/my-portfolio",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vimalverma558/master-portfolio.git"
