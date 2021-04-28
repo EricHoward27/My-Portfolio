@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.74ed5d23.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.13d23b78.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.13d23b78.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.8b00eace.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.8b00eace.js.map",
+    "static/js/2.f3d56cef.chunk.js": "/my-portfolio/static/js/2.f3d56cef.chunk.js",
+    "static/js/2.f3d56cef.chunk.js.map": "/my-portfolio/static/js/2.f3d56cef.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.b8efbc6390baa93b498afb749126fc2c.js": "/my-portfolio/precache-manifest.b8efbc6390baa93b498afb749126fc2c.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.74ed5d23.chunk.css.map": "/my-portfolio/static/css/main.74ed5d23.chunk.css.map",
+    "static/js/2.f3d56cef.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.f3d56cef.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-portfolio/static/media/LibreBaskerville-Regular.228126bc.ttf",
+    "static/media/about.svg": "/my-portfolio/static/media/about.6eb2ebe7.svg",
+    "static/media/clip-work-searches.svg": "/my-portfolio/static/media/clip-work-searches.14edbefa.svg",
+    "static/media/cloud.svg": "/my-portfolio/static/media/cloud.05304584.svg",
+    "static/media/data.svg": "/my-portfolio/static/media/data.40d39fac.svg",
+    "static/media/game.svg": "/my-portfolio/static/media/game.aea740a3.svg",
+    "static/media/home.svg": "/my-portfolio/static/media/home.f97efe3a.svg",
+    "static/media/message.svg": "/my-portfolio/static/media/message.5f906fce.svg",
+    "static/media/mlai.svg": "/my-portfolio/static/media/mlai.d0db4726.svg",
+    "static/media/pixeltrue-error-1.svg": "/my-portfolio/static/media/pixeltrue-error-1.a694ade0.svg",
+    "static/media/programming.svg": "/my-portfolio/static/media/programming.6b588570.svg",
+    "static/media/project.svg": "/my-portfolio/static/media/project.442b2788.svg",
+    "static/media/robotic.svg": "/my-portfolio/static/media/robotic.361ec907.svg",
+    "static/media/skill.svg": "/my-portfolio/static/media/skill.4a9c8818.svg",
+    "static/media/web-design.svg": "/my-portfolio/static/media/web-design.5bf185c7.svg",
+    "static/media/web-dev.svg": "/my-portfolio/static/media/web-dev.77825342.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b00eace.js",
+    "static/js/2.f3d56cef.chunk.js",
+    "static/css/main.74ed5d23.chunk.css",
+    "static/js/main.13d23b78.chunk.js"
+  ]
+}
